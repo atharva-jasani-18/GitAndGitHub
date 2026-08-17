@@ -1,0 +1,64 @@
+***Chai aur code git and github notes link :
+https://docs.chaicode.com/chai-aur-git/github***
+
+We use remote word for github and local word for 
+our device i.e. laptop, pc
+
+** Clone **
+Cloning a repository on our local machine
+
+// git clone <https_link>
+
+
+** Status **
+Viewing status of the current folder/file
+
+// git status
+
+
+** Untracked File **
+new files that git doesn't track yet
+
+
+** modified **
+changes are made in the file
+
+
+** staged **
+file is ready to be committed
+
+
+** unmodified **
+unchanged
+
+
+** flow **
+change/ new file  --->  add(staged)  --->  commit(changes saved)
+
+
+** add **
+adds new or changed files in your working directory 
+to git staging area
+
+// git add <file_name>
+// git add . (for adding all the files in the folder to staging area)
+
+
+** commit **
+it is the record of change
+
+// git commit -m "commit message"
+
+
+** push **
+upload local repo content to remote repo
+
+// git push remote_name branch_name
+
+// git push origin main
+
+Here remote-name(origin) is the name of the remote 
+repository that you want to push to and branch-name(main) 
+is the name of the branch that you want to push.
+
+
