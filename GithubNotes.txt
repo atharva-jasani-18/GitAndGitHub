@@ -76,7 +76,9 @@ used to create a new git repo
 
 // git remote -v
 
-// git remote add origin <link>
+// git remote add origin <link> (to add a remote repo from where pull and push should happen)
+
+// git remote set-url <link> (to change the remote repo)
 
 // git remote -v (to verify branch)
 
