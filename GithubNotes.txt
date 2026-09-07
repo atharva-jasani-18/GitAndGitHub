@@ -149,3 +149,11 @@ it can be resolved through both website and editor/terminal
 // git reset commit_hash  (commit hash is present in git log)
 // git reset --hard commit hash (also deletes from the history of editor)
 
+
+
+*** Fork *** 
+
+A fork is a new reposotory that shares code and visibility
+settings with the original "upstream" repository.
+
+Fork is a rough copy
