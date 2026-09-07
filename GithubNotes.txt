@@ -92,3 +92,36 @@ used to create a new git repo
 (it is used to make an upstream with the repo
 so that we dont have to always write origin main
 just writing git push after that will also do)
+
+
+
+*** Git Branches ***
+
+Branch Commands : 
+
+
+// git branch  (to check bracnh)
+
+// git branch -M main  (to rename branch)
+
+// git checkout branch name  (to navigate)
+
+// git checkout -b branch_name  (to create new branch)
+
+// git branch -d branch_name  (to delete branch)
+(used to delete after after merging)
+
+// git branch -D branch_name  (to to delete before merging)
+
+
+// git diff branch_name  (to compare commits, branches, files and more)
+
+// git merge branch_name  (to merge two branches)
+
+
+
+*** Pull Request *** (PR)
+
+It lets you tell others abiut changes you have pushed to a branch in repository on github
+
+PR is handled on github website
