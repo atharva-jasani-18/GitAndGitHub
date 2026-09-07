@@ -122,9 +122,30 @@ Branch Commands :
 
 *** Pull Request *** (PR)
 
-It lets you tell others abiut changes you have pushed to a branch in repository on github
+It lets you tell others about changes you have pushed to a branch in repository on github
 
 PR is handled on github website
 
 
 *** Resolving merge conflicts ***
+
+it can be resolved through both website and editor/terminal
+
+
+
+*** Undoing Changes ***
+
+1) staged changes 
+
+// git reset file_name
+// git reset
+
+2) commited changes  (for one commit)
+
+// git reset HEAD~1
+
+3) Commited changes (for many commits)
+
+// git reset commit_hash  (commit hash is present in git log)
+// git reset --hard commit hash (also deletes from the history of editor)
+
