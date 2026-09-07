@@ -92,3 +92,9 @@ used to create a new git repo
 (it is used to make an upstream with the repo
 so that we dont have to always write origin main
 just writing git push after that will also do)
+
+*** Pull ***
+
+// git pull  
+(to fetch and download content from a remote repo to our local repo/device)
+
