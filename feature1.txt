@@ -1,1 +1,2 @@
 this is a new feature of brnch feature 1
+something is written in feature 1
