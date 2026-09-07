@@ -125,3 +125,6 @@ Branch Commands :
 It lets you tell others abiut changes you have pushed to a branch in repository on github
 
 PR is handled on github website
+
+
+*** Resolving merge conflicts ***
